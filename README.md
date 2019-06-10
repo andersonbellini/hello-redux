@@ -1,2 +1,2 @@
 # hello-redux
-hello-redux using redux in sample simple
+hello-redux example simple using redux in app counter.
